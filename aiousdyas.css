@@ -12,15 +12,9 @@ body {
     max-height:100%;
     max-width:100%;
 }
-.centered {
-    position: fixed; /* or absolute */
-    top: 50%;
-    left: 50%;
-    /* bring your own prefixes */
-    transform: translate(-50%, -50%);
+ div center{
     display: flex;
             justify-content: center;
             align-items: center;
             height: 100vh;
-  }
- 
+ }
