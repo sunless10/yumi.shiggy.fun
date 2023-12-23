@@ -4,3 +4,9 @@
 center{
     color:white
 }
+.background {
+    background-image: url('https://yumii.s-ul.eu/a6BUfqvL.gif');
+    background-position: center;
+    background-size: cover;
+    overflow: hidden;
+  }
